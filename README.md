@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <a href="#">
-  <img align="right" alt="YuzeTT Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzeTT&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" alt="YuzeTT Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzeTT&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact">
 </a>
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
