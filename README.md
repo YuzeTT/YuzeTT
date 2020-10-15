@@ -21,7 +21,10 @@ Here are some ideas to get you started:
   <img align="right" alt="YuzeTT Github Stats" src="https://github-readme-stats.vercel.app/api?username=YuzeTT&show_icons=true&theme=dark">
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="#">
+  <img align="right" alt="YuzeTT Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzeTT&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+</a>
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
