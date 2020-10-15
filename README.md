@@ -23,17 +23,16 @@ Here are some ideas to get you started:
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
-- 🎉 I'm a 12 years old boy.
-- ✨ I like learning and programming.
-- 🌱 I'm currently learning Python, JS, CSS.
+- 🎉 I'm a 15 years old boy.
+- ✨ I like minecraft and programming.
+- 🌱 I'm currently learning Golang, JavaScript, CSS.
 
 ### Where To Find Me 🔍
 
-- 📝 My Blog: [**Flexiston's Blog**](https://blog.flesx.cn)
-- ✉️ Email: flexiston#qq.com (Replace # to @)
-- 🐤 Twitter: [@andy12462](https://twitter.com/andy12462) (No Any Things)
+- 📝 My Blog: [**YuzeTT Blog**](https://blog.yuze.gq)
+- ✉️ Email: 2517746965#qq.com (Replace # to @)
 
-<a href="https://github.com/Flexiston?tab=followers">
+<a href="https://github.com/YuzeTT?tab=followers">
   <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DFlexiston&style=flat-square">
 </a>
 
