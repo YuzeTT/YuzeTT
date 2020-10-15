@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 > Go for it now. The future is promised to no one.
 
+<table><tr><td bgcolor=red>背景色red</td></tr></table>
+
 <a href="#">
-  <img align="right" alt="YuzeTT Github Stats" src="https://github-readme-stats.vercel.app/api?username=YuzeTT&show_icons=true&theme=graywhite">
+  <img align="right" alt="YuzeTT Github Stats" src="https://github-readme-stats.vercel.app/api?username=YuzeTT&show_icons=true&theme=dark">
 </a>
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
