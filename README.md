@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 > Go for it now. The future is promised to no one.
 
 <a href="#">
-  <img align="right" alt="Flexiston's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Flexiston&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
+  <img align="right" alt="Flexiston's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YuzeTT&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
 </a>
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
