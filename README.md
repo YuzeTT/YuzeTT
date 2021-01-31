@@ -14,7 +14,7 @@
 
 ### Where To Find Me 🔍
 
-- 📝 My Blog: [**YuzeTT Blog**](https://blog.yuze.gq)
+- 📝 My Blog: [**YuzeTT Blog**](https://blog.uztt.cc)
 - ✉️ Email: 2517746965#qq.com (Replace # to @)
 
 <a href="https://github.com/YuzeTT?tab=followers">
