@@ -8,7 +8,7 @@
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
-- 🎉 I'm a 15 years old boy.
+- 🎉 I'm a 17 years old boy.
 - ✨ I like minecraft and programming.
 - 🌱 I'm currently learning Golang, JavaScript, CSS.
 
