@@ -8,14 +8,14 @@
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
-- 🎉 I'm a 17 years old boy.
+- 🎉 I'm a 18 years old boy.
 - ✨ I like minecraft and programming.
 - 🌱 I'm currently learning Golang, JavaScript, CSS.
 
 ### Where To Find Me 🔍
 
-- 📝 My Blog: [**YuzeTT Blog**](https://blog.uztt.cc)
-- ✉️ Email: 2517746965#qq.com (Replace # to @)
+- 📝 My Website: [**Yuzett's personal homepage**](https://hsott.cn)
+- ✉️ Email: yuzett#outlook.com (Replace # to @)
 
 <a href="https://github.com/YuzeTT?tab=followers">
   <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DYuzeTT&style=for-the-badge">
