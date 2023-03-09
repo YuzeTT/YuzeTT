@@ -2,23 +2,30 @@
 
 > You will never know unless you try.
 
-<a href="#">
-  <img align="right" alt="YuzeTT Github Stats" src="https://github-readme-stats.vercel.app/api?username=YuzeTT&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
-</a>
+<img align="right" style="align-items: start" alt="YuzeTT Github Stats" src="https://github-readme-stats.vercel.app/api?username=YuzeTT&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff&hide_border=true">
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
 - 🎉 I'm a 18 years old boy.
 - ✨ I like minecraft and programming.
-- 🌱 I'm currently learning Golang, JavaScript, CSS.
+- 🌱 I'm currently learning Golang, C.
 
 ### Where To Find Me 🔍
 
-- 📝 My Website: [**Yuzett's personal homepage**](https://hsott.cn)
+- 📝 My Website: [**YuzeTT's personal homepage**](https://hsott.cn)
 - ✉️ Email: yuzett#outlook.com (Replace # to @)
 
-<a href="https://github.com/YuzeTT?tab=followers">
-  <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DYuzeTT&style=for-the-badge">
-</a>
-
 #### Nice to see you! 🤣🤣🤣
+
+<div style="display:flex; gap: 8px; align-items: center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true" alt="">
+  <img src="https://streak-stats.demolab.com?user=YuzeTT&theme=vue&hide_border=true" alt="">
+</div>
+
+## I'll do it
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,html,css,go,vue,react,astro,electron,bootstrap,tailwind,windi,expressr)](https://skillicons.dev)
+
+## I am studying
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,c,docker,fastapir)](https://skillicons.dev)
